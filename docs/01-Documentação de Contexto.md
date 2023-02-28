@@ -1,6 +1,13 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A sociedade moderna é caracterizada por uma abundância de informações e estímulos, provenientes de fontes diversas como a internet, mídias sociais, dispositivos móveis, e-mails, notificações, entre outros. Esse cenário de excessos compromete as capacidades das pessoas em fazerem aquilo que é esperado delas e de tomarem decisões. Dois grandes desafios que surgem nesse sentido são a dificuldade de se priorizar o que é mais importante e a dificuldade de planejar o uso do tempo de forma eficiente.
+
+Com tantas informações disponíveis e com tantas interações que as pessoas fazem umas com as outras, é natural que surjam sentimentos de falta de organização e de falta de direção. Isso, certamente, prejudica a produtividade e o bem-estar dessas pessoas.
+
+Nesse contexto, torna-se fundamental que as pessoas sejam capazes de gerenciar suas próprias tarefas de forma eficaz. Isso envolve habilidades como a priorização de atividades, a definição de prazos, a organização de informações e o equilíbrio entre tempo de trabalho e tempo de descanso. Ao desenvolver essas habilidades, as pessoas podem lidar melhor com a sobrecarga de informações e estímulos e se manterem mais focadas e mais produtivas.
+
+Além disso, a capacidade de gerenciar tarefas de forma eficaz também pode ajudar as pessoas a lidar com o estresse e a ansiedade que podem surgir nesse cenário de sobrecargas. Ao terem um controle maior sobre suas atividades, as pessoas sentem uma maior sensação de realização e confiança em suas habilidades, o que pode trazer benefícios significativos para a vida pessoal e profissional das pessoas.
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
