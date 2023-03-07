@@ -8,46 +8,48 @@ Nesse contexto, torna-se fundamental que as pessoas sejam capazes de gerenciar s
 
 Além disso, a capacidade de gerenciar tarefas de forma eficaz também pode ajudar as pessoas a lidar com o estresse e a ansiedade que podem surgir nesse cenário de sobrecargas. Ao terem um controle maior sobre suas atividades, as pessoas sentem uma maior sensação de realização e confiança em suas habilidades, o que pode trazer benefícios significativos para a vida pessoal e profissional das pessoas.
 
-
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Em um contexto de excesso de informações e de interações, muitos alunos de graduação não conseguem ser produtivos nos seus cursos pela falta de capacidade de priorização e de organização das suas próprias tarefas acadêmicas. Assim, não é raro que esqueçam suas obrigações, percam prazos das atividades ou que não priorizem adequadamente as tarefas mais importantes. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é a criação de uma aplicação de gestão de tarefas que auxilie os alunos a organizarem suas atividades acadêmicas.
+Como objetivos específicos, destacam-se:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+- Permitir a gestão das disciplinas em que o usuário está matriculado;
+-	Permitir o controle do valor em pontos das atividades bem como dos recursos necessários à realização das atividades;
+-	Permitir a inserção das pessoas que devem ser informadas da tarefa concluída no caso de trabalhos em grupo.
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O Brasil é um país de baixa produtividade, quando comparado a outros países desenvolvidos e emergentes. Em 2020, esse índice de produtividade do trabalho no Brasil foi de US$ 22,2 por hora trabalhada, em comparação com US$ 61,5 na Alemanha e US$ 30,3 na China, de acordo com dados do Banco Mundial (WORLDBANK, 2023). No entanto, o Brasil é o país com o segundo maior número de horas trabalhadas por semana entre os países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), com uma média de 41,2 horas trabalhadas por semana (OCDE, 2023). 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A comparação entre esses dois dados, sugere uma falta de eficiência na gestão do tempo e um estudo da Universidade da Califórnia pode confirmar essa percepção, ao mostrar que o tempo perdido devido à falta de gestão de tarefas pode custar até mil dólares por ano em despesas de tempo e recursos para cada trabalhador (KRUSE, 2015).
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A incapacidade de gerenciar tarefas também pode afetar negativamente as relações pessoais, como casamentos e amizades, devido ao estresse e ao cansaço. De acordo com uma pesquisa realizada pela Universidade de Arizona, o estresse ocupacional é um fator de risco para o divórcio (GUSTAFSON, 1998) e também é a principal causa de afastamento do trabalho nos Estados Unidos, com custos que, em 2021, foram estimados em 300 bilhões de dólares por ano (APA, 2021). 
+
+O impacto da incapacidade de gerenciar tarefas não afeta apenas a trabalhadores, mas também a estudantes. De acordo com uma pesquisa realizada pela Universidade de Michigan em 2014, os estudantes que lutam com questões de gestão de tarefas têm maiores chances de abandonar ou atrasar o seu curso de graduação (SMITH, 2014).
+
+Em resumo, a falta de gestão de tarefas pode levar a perdas significativas em termos de produtividade, saúde mental, relacionamentos e desempenho acadêmico, com custos econômicos e financeiros significativos. Por isso, é importante que as pessoas sejam capazes de gerenciar suas tarefas para alcançar sucesso e estabilidade em suas vidas pessoais e profissionais.
+
+## Trabalhos relacionados (soluções que já existem) 
+
+Existem muitas aplicações que podem ajudar as pessoas na gestão de tarefas. Entre elas, destacam-se as seguintes:
+
+-	**Todoist**[^1] - É uma aplicação avançada de gerenciamento de tarefas, que oferece recursos avançados, como gerenciamento de projetos e integração com outras aplicações. Há a possibilidade de colaboração em tempo real com outras pessoas e está disponível para diferentes plataformas, incluindo web, desktop e dispositivos móveis. Pode ter uma curva de aprendizado mais longa que alguns outras aplicações.
+-	**Google Tasks**[^2] - É uma aplicação simples e integrado ao Gmail e ao Google Calendar, que oferece recursos básicos de gerenciamento de tarefas e é ideal para pessoas que procuram uma solução fácil e integrada. No entanto, comparada às outras soluções, oferece recursos limitados.
+-	**Microsoft To-Do**[^3] - É uma aplicação de gerenciamento de tarefas simples, com recursos básicos de listas de tarefas, lembretes e gerenciamento de projetos. Está integrada ao pacote Office 365.
+-	**Any.do**[^4] - É uma aplicação avançada de gerenciamento de tarefas, com recursos avançados, como gerenciamento de projetos, integração com outras aplicações e recursos de colaboração em tempo real. Está disponível para diferentes plataformas, incluindo web, desktop e dispositivos móveis. É outras aplicações considerada complexa para usuários iniciantes.
+-	**Wunderlist**[^5] - É outras aplicações de gerenciamento de tarefas que oferece recursos avançados como gerenciamento de projetos, recursos de colaboração em tempo real e integração com outros aplicativos. Também está disponível para diferentes plataformas.
+
+[^1]: https://todoist.com 
+[^2]: https://support.google.com/tasks 
+[^3]: https://todo.microsoft.com/tasks/ 
+[^4]: https://www.any.do/ 
+[^5]: https://www.wunderlist.com/ 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Quaisquer pessoas que precisem organizar melhor seu tempo podem ser beneficiadas por uma aplicação de gestão de tarefas. No entanto, considerando a diversidade de aplicações já existentes e a necessidade de um foco específico, a aplicação proposta neste projeto será direcionada a estudantes universitários, na faixa de 17 a 25 anos, matriculados em diferentes disciplinas para auxiliá-los na organização de suas tarefas acadêmicas.
