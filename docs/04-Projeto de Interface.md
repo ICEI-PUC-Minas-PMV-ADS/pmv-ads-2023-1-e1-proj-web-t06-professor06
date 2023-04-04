@@ -11,9 +11,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ![Fluxo do usuário](./img/userflow.png)
 
-
-
-* explicar o fluxo *
+*explicar o fluxo*
 
 
 ## Wireframes
