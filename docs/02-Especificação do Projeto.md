@@ -1,26 +1,35 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+As personas foram criadas a partir de entrevistas com pessoas que viajam com frequência, sejam essas viagens de lazer ou a negócios. Foram entrevistadas 5 pessoas com perfis diferentes, para que se pudesse explorar um pouco mais seus hábitos.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+### Ana Paula Brandão
+![Marcelo Souza](./img/persona2.jpg)
+- Idade: 30 anos
+- Profissão: Advogada
+- Estado Civil: Casada, sem filhos
+- Interesses: Viagens internacionais, fotografia, gastronomia
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Ana Paula adora viajar e já visitou diversos países da América Latina, Europa e Ásia. Ela gosta de experimentar novas comidas, conhecer diferentes culturas e tirar fotos dos lugares que visita. No entanto, ela costuma ter dificuldades em fazer a mala, principalmente quando vai viajar para lugares com climas diferentes do Brasil. Ana Paula é um pouco vaidosa e gosta de estar sempre bem vestida, especialmente para as fotos. No entanto, como tem uma agenda de trabalho agitada e está focada no desenvolvimento da sua carreira, nem sempre tem tempo para pesquisar sobre o clima e as particularidades do destino para onde está indo. Por isso, planeja mal suas mala e já teve problemas de excesso de bagagem, além de também de não levar as roupas adequadas para o clima. Isso acabou prejudicando sua experiência em algumas viagens.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+**Motivação:** Ana Paula espera poder aproveitar cada minuto das suas viagens, tendo tudo aquilo que precisar na hora que precisar, mas sem ter que ficar carregando malas pesadas ou pagando excesso de bagagem. 
+
+**Frustração**: Ana Paula não tem muita habilidade em montar looks e coordenar roupas, o que acaba dificultando ainda mais o processo de planejamento da mala.
+
+### Marcelo Souza
+![Marcelo Souza](./img/persona2.jpg)
+- Idade: 25 anos
+- Profissão: Estudante de Engenharia
+- Estado Civil: Solteiro
+- Interesses: Viagens de aventura, trilhas, acampamentos, esportes radicais
+
+Marcelo adora viajar para lugares que ofereçam aventura e desafio. Ele gosta de fazer trilhas, acampar e praticar esportes radicais, como escalada e rapel. Já viajou para diversos lugares do Brasil e da América Latina, mas também já fez algumas viagens para a Europa e a Ásia. Ele costuma levar uma mochila grande em suas viagens e tem habilidade em arrumar seus equipamentos e utensílios de forma compacta e organizada. Marcelo é um cara bastante pragmático. Sabe que algumas roupas e utensílios podem ser usados várias vezes e não vê problemas em ter que lavar suas roupas durante a viagem. Seu lema é curtir a viagem sem estresse.
+
+**Motivação**: Marcelo curte planejar a sua viagem. No entanto, seus registros de viagem não são muito organizados e ele acaba não aproveitando a experiência da viagem anterior no planejamento da nova viagem. Ele busca alguma forma de aproveitar essas experiências anteriores de alguma forma.
+
+**Frustração**: Marcelo encara qualquer aventura que aparece na sua viagem. Ele não gosta, porém, de perder alguma dessas aventuras por estar despreparado, isto é, por ter esquecido algo que seria importante nesses momentos.
+
 
 ## Histórias de Usuários
 
