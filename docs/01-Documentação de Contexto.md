@@ -1,55 +1,52 @@
 # Introdução
 
-A sociedade moderna é caracterizada por uma abundância de informações e estímulos, provenientes de fontes diversas como a internet, mídias sociais, dispositivos móveis, e-mails, notificações, entre outros. Esse cenário de excessos compromete as capacidades das pessoas em fazerem aquilo que é esperado delas e de tomarem decisões. Dois grandes desafios que surgem nesse sentido são a dificuldade de se priorizar o que é mais importante e a dificuldade de planejar o uso do tempo de forma eficiente.
+Planejar a mala de viagem pode ser um desafio para muitas pessoas, pois requer um equilíbrio entre levar o suficiente para as necessidades da viagem, mas também não exagerar na quantidade de itens a serem levados. No geral, a dificuldade em planejar a mala de viagem está relacionada à necessidade de equilibrar diferentes fatores, como clima, atividades, espaço e peso da mala, além de não esquecer de itens importantes e conseguir combinar as roupas de forma adequada.
 
-Com tantas informações disponíveis e com tantas interações que as pessoas fazem umas com as outras, é natural que surjam sentimentos de falta de organização e de falta de direção. Isso, certamente, prejudica a produtividade e o bem-estar dessas pessoas.
+Uma mala mal planejada pode trazer várias consequências negativas para a viagem, como gastos extras com compra de roupas e produtos não levados, bem como, eventualmente, com excesso de peso da mala. A perda de tempo fazendo essas compras também é uma outra consequência negativa, tanto quanto a frustração por não se ter aquilo que se esperava, o que compromete a qualidade da experiência desejada com a viagem. Alguns casos de esquecimento, como o de documentos, bilhetes de passagem e passaporte, o planejamento ruim pode até mesmo inviabilizar a viagem.
 
-Nesse contexto, torna-se fundamental que as pessoas sejam capazes de gerenciar suas próprias tarefas de forma eficaz. Isso envolve habilidades como a priorização de atividades, a definição de prazos, a organização de informações e o equilíbrio entre tempo de trabalho e tempo de descanso. Ao desenvolver essas habilidades, as pessoas podem lidar melhor com a sobrecarga de informações e estímulos e se manterem mais focadas e mais produtivas.
+Muitas pessoas encontram dificuldades em organizar suas malas para viagens. Algumas podem ser mais habilidosas e organizadas, enquanto outras podem ter mais dificuldade em determinar o que levar e como organizar os itens dentro da mala. A frequência com que a pessoa viaja, certamente contribui para a melhoria dessa habilidade, mas o próprio perfil da pessoa interfere nessa habilidade. Pessoas mais ansiosas planejam tudo com antecência e conferem algumas vezes se não estão esquecendo algo. Essas pessoas podem contar com algum tipo de apoio de conferência do que estão levando para reduzir a ansiedade. Já pessoas menos ansiosas deixam as coisas para a última hora e dependem de algum tipo de apoio para não se esquecerem de na
 
-Além disso, a capacidade de gerenciar tarefas de forma eficaz também pode ajudar as pessoas a lidar com o estresse e a ansiedade que podem surgir nesse cenário de sobrecargas. Ao terem um controle maior sobre suas atividades, as pessoas sentem uma maior sensação de realização e confiança em suas habilidades, o que pode trazer benefícios significativos para a vida pessoal e profissional das pessoas.
 
 ## Problema
 
-Em um contexto de excesso de informações e de interações, muitos alunos de graduação não conseguem ser produtivos nos seus cursos pela falta de capacidade de priorização e de organização das suas próprias tarefas acadêmicas. Assim, não é raro que esqueçam suas obrigações, percam prazos das atividades ou que não priorizem adequadamente as tarefas mais importantes. 
+Muitas pessoas acabam tendo gastos extras e passando apertos por terem feito um planejamento ruim de suas malas de viagem.
+
 
 ## Objetivos
 
-O objetivo geral deste trabalho é a criação de uma aplicação de gestão de tarefas que auxilie os alunos a organizarem suas atividades acadêmicas.
+O objetivo geral deste trabalho é a criação de uma aplicação de planejamento de malas que auxilie os viajantes a decidir o que colocar na mala e em que quantidade.
+
 Como objetivos específicos, destacam-se:
 
-- Permitir a gestão das disciplinas em que o usuário está matriculado;
--	Permitir o controle do valor em pontos das atividades bem como dos recursos necessários à realização das atividades;
--	Permitir a inserção das pessoas que devem ser informadas da tarefa concluída no caso de trabalhos em grupo.
+- O planejamento da mala deve considerar aspectos da viagem como destino, clima local e eventos dos quais o usuário participará.
+-	O planejamento da mala deve considerar o número de dias de viagem.
+-	O planejamento da mala deve considerar as experiências de viagem anteriores do usuário.
 
 
 ## Justificativa
 
-O Brasil é um país de baixa produtividade, quando comparado a outros países desenvolvidos e emergentes. Em 2020, esse índice de produtividade do trabalho no Brasil foi de US$ 22,2 por hora trabalhada, em comparação com US$ 61,5 na Alemanha e US$ 30,3 na China, de acordo com dados do Banco Mundial (WORLDBANK, 2023). No entanto, o Brasil é o país com o segundo maior número de horas trabalhadas por semana entre os países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), com uma média de 41,2 horas trabalhadas por semana (OCDE, 2023). 
+Em 2021, o Brasil registrou 12,3 milhões de viagens de turismo, injetando 9,8 bilhões de reais na economia (COSTA, 2022). Esse número, apesar de expressivo, foi 41% menor que 2019 por causa da pandemia de Covid. Em outras palavras, com a redução do casos de contaminação dessa doença, é provável que nos próximos anos o número de viajantes cresça significativamente. Nessas viagens turísticas, as pessoas geralmente levam mais de um volume de bagagem.
 
-A comparação entre esses dois dados, sugere uma falta de eficiência na gestão do tempo e um estudo da Universidade da Califórnia pode confirmar essa percepção, ao mostrar que o tempo perdido devido à falta de gestão de tarefas pode custar até mil dólares por ano em despesas de tempo e recursos para cada trabalhador (KRUSE, 2015).
+Já a Associação Brasileira das Empresas Aéreas registrou o transporte de 104,4 milhões de passageiros em 2019 (ABEAR, 2020). Por mais curtas que possam ter sido algumas viagens, provavelmente cada um desses passageiros levou pelo menos um volume de bagagem e, assim, precisou planejar o que levar ou não no seu transporte.
 
-A incapacidade de gerenciar tarefas também pode afetar negativamente as relações pessoais, como casamentos e amizades, devido ao estresse e ao cansaço. De acordo com uma pesquisa realizada pela Universidade de Arizona, o estresse ocupacional é um fator de risco para o divórcio (GUSTAFSON, 1998) e também é a principal causa de afastamento do trabalho nos Estados Unidos, com custos que, em 2021, foram estimados em 300 bilhões de dólares por ano (APA, 2021). 
+De acordo com a jornalista Iara Vilela (2023), que já passou por mais de 48 países, as malas devem ser planejadas considerando tanto destino, quanto clima e duração da viagem. Ela recomenda levara apenas o necessáario, para não se ter uma mala pesada, porém incompleta. Dessa forma, reforça a importância do bom planejamento das malas.
 
-O impacto da incapacidade de gerenciar tarefas não afeta apenas a trabalhadores, mas também a estudantes. De acordo com uma pesquisa realizada pela Universidade de Michigan em 2014, os estudantes que lutam com questões de gestão de tarefas têm maiores chances de abandonar ou atrasar o seu curso de graduação (SMITH, 2014).
 
-Em resumo, a falta de gestão de tarefas pode levar a perdas significativas em termos de produtividade, saúde mental, relacionamentos e desempenho acadêmico, com custos econômicos e financeiros significativos. Por isso, é importante que as pessoas sejam capazes de gerenciar suas tarefas para alcançar sucesso e estabilidade em suas vidas pessoais e profissionais.
+## Aplicações semelhantes
 
-## Trabalhos relacionados (soluções que já existem) 
+Existem muitas aplicações que podem ajudar as pessoas a organizar as suas malas. Entre elas, destacam-se as seguintes:
 
-Existem muitas aplicações que podem ajudar as pessoas na gestão de tarefas. Entre elas, destacam-se as seguintes:
+-	**Pack/r**[^1] - Aplicativo intuitivo que ajuda a preparar suas malas para viajar. Está disponível para iPhone (iOS), é grátis, e cria uma lista de itens imprescindíveis para o passeio, a partir de informações como local, datas e atividades que serão realizadas. É possível personalizar a experiência com base na duração da viagem e até no clima. 
+-	**PackKing**[^2] - Possui uma interface simples e fácil de ser usada para ajudar você a separar a sua lista de viagem. Disponível de maneira gratuita para iOS e Android, o app também utiliza o algoritmo para criar opções personalizadas com base em destino, atividades planejadas, transporte e outras necessidades pessoais. O PackKing também possibilita a adição de outros produtos caso eles não apareçam na simulação e ainda oferece a chance de colocar marcadores – caso o usuário ainda precise comprar algum produto. Para facilitar a vida, permite a  geração de um PDF com todos os itens ou exportar a lista para outros aplicativos.
+-	**PackPoint**[^3] - É um aplicativo de interface simples disponível para iOS e Android. Ele calcula o que o usuário precisa colocar na bagagem com base no gênero, na previsão do tempo e nas atividades previstas. É possível refinar a busca até com passeios ou esportes que você pretende fazer durante a viagem com checklists bem variados. Busca apoiar o planejamento de qualquer tipo de viagem, seja para a negócios ou lazer.
+-	**PackTeo**[^4] - O PackTeo está disponível gratuitamente para Android e ajuda a criar listas de embalagem para todos os tipos de viagens. O algoritmo do PackTeo também permite que o usuário crie sua lista de itens a partir de modelos prontos como, por exemplo, acampamento, mochilão e até passeios que incluem esportes radicais.
 
--	**Todoist**[^1] - É uma aplicação avançada de gerenciamento de tarefas, que oferece recursos avançados, como gerenciamento de projetos e integração com outras aplicações. Há a possibilidade de colaboração em tempo real com outras pessoas e está disponível para diferentes plataformas, incluindo web, desktop e dispositivos móveis. Pode ter uma curva de aprendizado mais longa que alguns outras aplicações.
--	**Google Tasks**[^2] - É uma aplicação simples e integrado ao Gmail e ao Google Calendar, que oferece recursos básicos de gerenciamento de tarefas e é ideal para pessoas que procuram uma solução fácil e integrada. No entanto, comparada às outras soluções, oferece recursos limitados.
--	**Microsoft To-Do**[^3] - É uma aplicação de gerenciamento de tarefas simples, com recursos básicos de listas de tarefas, lembretes e gerenciamento de projetos. Está integrada ao pacote Office 365.
--	**Any.do**[^4] - É uma aplicação avançada de gerenciamento de tarefas, com recursos avançados, como gerenciamento de projetos, integração com outras aplicações e recursos de colaboração em tempo real. Está disponível para diferentes plataformas, incluindo web, desktop e dispositivos móveis. É outras aplicações considerada complexa para usuários iniciantes.
--	**Wunderlist**[^5] - É outras aplicações de gerenciamento de tarefas que oferece recursos avançados como gerenciamento de projetos, recursos de colaboração em tempo real e integração com outros aplicativos. Também está disponível para diferentes plataformas.
+[^1]: iOS: https://apps.apple.com/br/app/packr-lista-de-viagem-mala/id1208312901
+[^2]: iOS: https://apps.apple.com/br/app/packking/id1448327469 / Android: https://play.google.com/store/apps/details?id=com.adotis.packking&hl=pt_BR&gl=US
+[^3]: iOS: https://apps.apple.com/br/app/packpoint-embalagem-de-viagem/id896337401 / Android: https://play.google.com/store/apps/details?id=com.YRH.PackPoint&hl=pt_BR&gl=US
+[^4]: https://play.google.com/store/apps/details?id=com.createo.packteo&hl=pt_BR&gl=US
 
-[^1]: https://todoist.com 
-[^2]: https://support.google.com/tasks 
-[^3]: https://todo.microsoft.com/tasks/ 
-[^4]: https://www.any.do/ 
-[^5]: https://www.wunderlist.com/ 
 
 ## Público-Alvo
 
-Quaisquer pessoas que precisem organizar melhor seu tempo podem ser beneficiadas por uma aplicação de gestão de tarefas. No entanto, considerando a diversidade de aplicações já existentes e a necessidade de um foco específico, a aplicação proposta neste projeto será direcionada a estudantes universitários, na faixa de 17 a 25 anos, matriculados em diferentes disciplinas para auxiliá-los na organização de suas tarefas acadêmicas.
+Quaisquer pessoas adultas que viagem e que, assim, precisem planejar o que levar na viagem. Optou-se pelo público adulto, considerando que geralmente crianças e adolescentes têm suas malas planejadas por seus pais.
