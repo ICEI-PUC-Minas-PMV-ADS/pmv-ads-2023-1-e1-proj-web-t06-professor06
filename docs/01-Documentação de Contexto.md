@@ -29,7 +29,7 @@ Em 2021, o Brasil registrou 12,3 milhões de viagens de turismo, injetando 9,8 b
 
 Já a Associação Brasileira das Empresas Aéreas registrou o transporte de 104,4 milhões de passageiros em 2019 (ABEAR, 2020). Por mais curtas que possam ter sido algumas viagens, provavelmente cada um desses passageiros levou pelo menos um volume de bagagem e, assim, precisou planejar o que levar ou não no seu transporte.
 
-De acordo com a jornalista Iara Vilela (2023), que já passou por mais de 48 países, as malas devem ser planejadas considerando tanto destino, quanto clima e duração da viagem. Ela recomenda levara apenas o necessáario, para não se ter uma mala pesada, porém incompleta. Dessa forma, reforça a importância do bom planejamento das malas.
+De acordo com a jornalista Iara Vilela (2023), que já passou por mais de 48 países, as malas devem ser planejadas considerando tanto destino, quanto clima e duração da viagem. Ela recomenda levara apenas o necessário, para não se ter uma mala pesada, porém incompleta. Dessa forma, reforça a importância do bom planejamento das malas.
 
 
 ## Aplicações semelhantes
