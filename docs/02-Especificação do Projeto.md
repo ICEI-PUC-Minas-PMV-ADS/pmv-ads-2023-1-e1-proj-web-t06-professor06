@@ -4,7 +4,7 @@ As personas foram criadas a partir de entrevistas com pessoas que viajam com fre
 
 ## Personas
 
-### Ana Paula Brandão
+### Ana Paula Brandão (viajante)
 ![Ana Paula Brandão](./img/persona1.jpg)
 - Idade: 30 anos
 - Profissão: Advogada
@@ -17,7 +17,7 @@ Ana Paula adora viajar e já visitou diversos países da América Latina, Europa
 
 **Frustração**: Ana Paula não tem muita habilidade em montar looks e coordenar roupas, o que acaba dificultando ainda mais o processo de planejamento da mala.
 
-### Marcelo Souza
+### Marcelo Souza (viajante)
 ![Marcelo Souza](./img/persona2.jpg)
 - Idade: 25 anos
 - Profissão: Estudante de Engenharia
@@ -35,19 +35,12 @@ Marcelo adora viajar para lugares que ofereçam aventura e desafio. Ele gosta de
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`     | PARA ... `MOTIVO/VALOR`                          |
+|---------------------|----------------------------------------|--------------------------------------------------|
+| Viajante            | Gerenciar os itens que levo em viagens | Planejar malas com meus próprios itens.          |
+| Viajante            | Planejar o que levar em cada viagem    | Não faltar nada e não levar nada em excesso.     |
+| Viajante            | Ter um checklist para montar a mala    | Não me esquecer de nada na hora de montar a mala |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -55,10 +48,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição do Requisito | Prioridade |
+|------|------------------------|------------|
+|RF-001| Gerenciar itens de viagem | ALTA | 
+|RF-002| Gerenciar viagens | ALTA |
+|RF-003| Gerenciar itens já separados para viagem | ALTA |
 
 
 ### Requisitos não Funcionais
