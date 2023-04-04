@@ -5,7 +5,7 @@ As personas foram criadas a partir de entrevistas com pessoas que viajam com fre
 ## Personas
 
 ### Ana Paula Brandão
-![Ana Paula Brandão](./img/persona1.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Ana Paula Brandão](./img/persona1.jpg)
 - Idade: 30 anos
 - Profissão: Advogada
 - Estado Civil: Casada, sem filhos
@@ -18,7 +18,7 @@ Ana Paula adora viajar e já visitou diversos países da América Latina, Europa
 **Frustração**: Ana Paula não tem muita habilidade em montar looks e coordenar roupas, o que acaba dificultando ainda mais o processo de planejamento da mala.
 
 ### Marcelo Souza
-![Marcelo Souza](./img/persona2.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Marcelo Souza](./img/persona2.jpg)
 - Idade: 25 anos
 - Profissão: Estudante de Engenharia
 - Estado Civil: Solteiro
