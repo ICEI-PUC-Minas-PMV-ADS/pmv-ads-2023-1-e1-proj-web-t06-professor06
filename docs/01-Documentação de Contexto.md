@@ -41,10 +41,10 @@ Existem muitas aplicações que podem ajudar as pessoas a organizar as suas mala
 -	**PackPoint**[^3] - É um aplicativo de interface simples disponível para iOS e Android. Ele calcula o que o usuário precisa colocar na bagagem com base no gênero, na previsão do tempo e nas atividades previstas. É possível refinar a busca até com passeios ou esportes que você pretende fazer durante a viagem com checklists bem variados. Busca apoiar o planejamento de qualquer tipo de viagem, seja para a negócios ou lazer.
 -	**PackTeo**[^4] - O PackTeo está disponível gratuitamente para Android e ajuda a criar listas de embalagem para todos os tipos de viagens. O algoritmo do PackTeo também permite que o usuário crie sua lista de itens a partir de modelos prontos como, por exemplo, acampamento, mochilão e até passeios que incluem esportes radicais.
 
-[^1]: iOS: https://apps.apple.com/br/app/packr-lista-de-viagem-mala/id1208312901
-[^2]: iOS: https://apps.apple.com/br/app/packking/id1448327469 / Android: https://play.google.com/store/apps/details?id=com.adotis.packking&hl=pt_BR&gl=US
-[^3]: iOS: https://apps.apple.com/br/app/packpoint-embalagem-de-viagem/id896337401 / Android: https://play.google.com/store/apps/details?id=com.YRH.PackPoint&hl=pt_BR&gl=US
-[^4]: https://play.google.com/store/apps/details?id=com.createo.packteo&hl=pt_BR&gl=US
+[^1]: iOS - https://apps.apple.com/br/app/packr-lista-de-viagem-mala/id1208312901
+[^2]: iOS - https://apps.apple.com/br/app/packking/id1448327469 / Android - https://play.google.com/store/apps/details?id=com.adotis.packking&hl=pt_BR&gl=US
+[^3]: iOS - https://apps.apple.com/br/app/packpoint-embalagem-de-viagem/id896337401 / Android - https://play.google.com/store/apps/details?id=com.YRH.PackPoint&hl=pt_BR&gl=US
+[^4]: Android - https://play.google.com/store/apps/details?id=com.createo.packteo&hl=pt_BR&gl=US
 
 
 ## Público-Alvo
