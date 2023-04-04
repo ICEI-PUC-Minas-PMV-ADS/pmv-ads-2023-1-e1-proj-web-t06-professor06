@@ -50,16 +50,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito | Prioridade |
 |------|------------------------|------------|
-|RF-001| O usuário deve poder gerenciar seus itens de viagem | ALTA | 
-|RF-002| O usuário deve poder gerenciar suas viagens | ALTA |
-|RF-003| O usuário deve poder selecionar itens para uma viagem | ALTA |
-|RF-004| O usuário deve poder marcar itens já separados para uma viagem | ALTA |
-|RF-005| Os itens devem ser organizados por categoria | MEDIA |
-|RF-006| Os itens devem ser classificados por clima | MEDIA |
-|RF-007| Os itens devem ter um indicador quantitativo de reuso | MEDIA |
-|RF-008| A aplicação deve buscar a previsão do tempo no destino da viagem | BAIXA |
-|RF-009| A aplicação deve emitir um relatório com os selecionados para a viagem | BAIXA |
-|RF-010| A aplicação deve permitir que uma viagem seja criada a partir de outra anterior | BAIXA |
+|RF-001| O usuário deve poder gerenciar itens de viagem | ALTA | 
+|RF-002| O usuário deve poder gerenciar viagens | ALTA |
+|RF-003| A aplicação deve permitir a geração automática de itens de viagem | MÉDIA |
+|RF-004| O usuário deve poder adicionar ou excluir itens para uma viagem | ALTA |
+|RF-005| O usuário deve poder marcar itens já separados para uma viagem | ALTA |
+|RF-006| Os itens devem ser organizados por categoria | MÉDIA |
+|RF-007| Os itens devem ser classificados por clima | MÉDIA |
+|RF-008| Os itens devem ter um indicador quantitativo de reuso | MÉDIA |
+|RF-009| Os itens devem ter um indicador quantitativo de reuso | MÉDIA |
+|RF-010| A aplicação deve permitir marcar itens essenciais | MÉDIA |
+|RF-011| A aplicação deve emitir um relatório com os itens selecionados para a viagem | BAIXA |
 
 
 ### Requisitos não Funcionais
