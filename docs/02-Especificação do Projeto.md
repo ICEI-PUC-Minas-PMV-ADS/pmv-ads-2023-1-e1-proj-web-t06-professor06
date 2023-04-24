@@ -85,4 +85,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |REST-005| A documentação e o código da aplicação devem ser publicados no GitHub | 
 
 
-<div align="right"><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-professor06/blob/main/docs/03-Metodologia.md">próximoi</a></div>
+<div align="right"><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-professor06/blob/main/docs/03-Metodologia.md">próximo</a></div>
