@@ -52,4 +52,4 @@ Existem muitas aplicações que podem ajudar as pessoas a organizar as suas mala
 Quaisquer pessoas adultas que viagem e que, assim, precisem planejar o que levar na viagem. Optou-se pelo público adulto, considerando que geralmente crianças e adolescentes têm suas malas planejadas por seus pais.
 
 
-<div align="right">[próximo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-professor06/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md)</div>
+<div align="right"><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-professor06/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md">próximo</a></div>
